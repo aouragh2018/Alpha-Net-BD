@@ -165,15 +165,6 @@ export function Footer() {
                   Mehedi Pathan
                 </a>
               </p>
-              <div className="flex items-center space-x-2">
-                <span>Powered by</span>
-                <Badge variant="secondary" className="text-xs">
-                  Next.js
-                </Badge>
-                <Badge variant="secondary" className="text-xs">
-                  Vercel
-                </Badge>
-              </div>
             </div>
           </div>
         </div>
