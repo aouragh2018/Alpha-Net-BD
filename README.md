@@ -9,6 +9,8 @@ A comprehensive full-stack web application for domain registration and web hosti
 
 ## 🌟 Overview
 
+![Alpha net bd - domain hosting provider](landing-image.png)
+
 Alpha Net BD is a professional-grade domain registration and web hosting platform specifically designed for the Bangladesh market. The platform offers a complete suite of services including domain search and registration, multiple hosting tiers, SSL certificates, and comprehensive customer management tools.
 
 ## 🚀 Key Features
